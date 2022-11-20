@@ -1,0 +1,15 @@
+pkgbase = jest
+	pkgdesc = Fast, comprehensive JavaScript testing solution
+	pkgver = 29.3.1
+	pkgrel = 1
+	url = https://jestjs.io/
+	arch = any
+	license = MIT
+	makedepends = npm
+	makedepends = jq
+	depends = nodejs
+	noextract = jest-29.3.1.tgz
+	source = https://registry.npmjs.org/jest/-/jest-29.3.1.tgz
+	sha512sums = ea259f2f90d34f4369e9462cff2e4d8aeed621f36fff0453b4de51497b760c811fb77771df33eec3fdd625004225f984cef0e210ac28a8c6c60fd9f8f7ea8b48
+
+pkgname = jest
